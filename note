@@ -1,0 +1,2 @@
+HTTPS Diperlukan, Akses kamera hanya diizinkan di domain dengan protokol HTTPS.
+Batas Unggah PHP, Pastikan upload_max_filesize dan post_max_size di php.ini cukup besar untuk ukuran video.
